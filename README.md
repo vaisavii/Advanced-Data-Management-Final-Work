@@ -1,2 +1,2 @@
 # Advanced-Data-Management-Final-Work
-Database design, normalization, optimization, data analysis with SQL and anonymization. (MySQL)
+Working with MySQL. The final project contains database design, normalization, optimization, data analysis with SQL and data anonymization.
